@@ -6,23 +6,34 @@ The bootcamp focused on building a Disease Predictor Model using Machine Learnin
 
 📚 What I Learned
 ✅ Day 1 – Machine Learning basics & data preprocessing
+
 ✅ Day 2 – Model training & evaluation
+
 ✅ Day 3 – Advanced models & feature engineering
+
 ✅ Day 4 – Model optimization & hyperparameter tuning
+
 ✅ Day 5 – Live prediction demo & portfolio showcase
 
 🛠 Tech Stack
 Python 🐍
+
 Pandas, Scikit-learn
+
 Jupyter Notebook
 
 🎯 Outcomes
 Built a Disease Predictor Model
+
 Understood the role of AI in healthcare
+
 Gained practical experience in ML model development
+
 Earned certificates from DevTown, Microsoft, and Google
 
 🌟 Future Work
 Apply deep learning to medical imaging datasets
+
 Improve model accuracy with advanced techniques
+
 Explore deployment of ML models for real-world healthcare applications
